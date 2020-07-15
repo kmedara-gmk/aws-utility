@@ -1,0 +1,9 @@
+C:\Projects\AWSUtility\SSMUtility\bin\Debug\netcoreapp2.1\SSMUtility.deps.json
+C:\Projects\AWSUtility\SSMUtility\bin\Debug\netcoreapp2.1\SSMUtility.dll
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.csprojAssemblyReference.cache
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.csproj.CoreCompileInputs.cache
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.AssemblyInfoInputs.cache
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.AssemblyInfo.cs
+C:\Projects\AWSUtility\SSMUtility\bin\Debug\netcoreapp2.1\SSMUtility.pdb
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.dll
+C:\Projects\AWSUtility\SSMUtility\obj\Debug\netcoreapp2.1\SSMUtility.pdb

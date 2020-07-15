@@ -1,0 +1,14 @@
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\TestApp.deps.json
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\TestApp.runtimeconfig.json
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\TestApp.runtimeconfig.dev.json
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\TestApp.dll
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\TestApp.pdb
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\AWSUtility.dll
+C:\Projects\AWSUtility\TestApp\bin\Release\netcoreapp2.1\AWSUtility.pdb
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.csprojAssemblyReference.cache
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.AssemblyInfoInputs.cache
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.AssemblyInfo.cs
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.csproj.CopyComplete
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.dll
+C:\Projects\AWSUtility\TestApp\obj\Release\netcoreapp2.1\TestApp.pdb
