@@ -1,8 +1,0 @@
-C:\Projects\AWSUtility\SSMUtility\bin\Release\netcoreapp2.1\AWSUtility.deps.json
-C:\Projects\AWSUtility\SSMUtility\bin\Release\netcoreapp2.1\AWSUtility.dll
-C:\Projects\AWSUtility\SSMUtility\bin\Release\netcoreapp2.1\AWSUtility.pdb
-C:\Projects\AWSUtility\SSMUtility\obj\Release\netcoreapp2.1\AWSUtility.csproj.CoreCompileInputs.cache
-C:\Projects\AWSUtility\SSMUtility\obj\Release\netcoreapp2.1\AWSUtility.AssemblyInfoInputs.cache
-C:\Projects\AWSUtility\SSMUtility\obj\Release\netcoreapp2.1\AWSUtility.AssemblyInfo.cs
-C:\Projects\AWSUtility\SSMUtility\obj\Release\netcoreapp2.1\AWSUtility.dll
-C:\Projects\AWSUtility\SSMUtility\obj\Release\netcoreapp2.1\AWSUtility.pdb

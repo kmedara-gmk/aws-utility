@@ -1,9 +1,0 @@
-C:\Projects\AWSUtility\LambdaUtility\bin\Release\netcoreapp2.1\LambdaUtility.deps.json
-C:\Projects\AWSUtility\LambdaUtility\bin\Release\netcoreapp2.1\LambdaUtility.dll
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.csprojAssemblyReference.cache
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.csproj.CoreCompileInputs.cache
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.AssemblyInfoInputs.cache
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.AssemblyInfo.cs
-C:\Projects\AWSUtility\LambdaUtility\bin\Release\netcoreapp2.1\LambdaUtility.pdb
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.dll
-C:\Projects\AWSUtility\LambdaUtility\obj\Release\netcoreapp2.1\LambdaUtility.pdb
